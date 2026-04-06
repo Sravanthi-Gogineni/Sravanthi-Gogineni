@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**Sravanthi-Gogineni/Sravanthi-Gogineni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Sravanthi Gogineni 👋
+AI/ML Engineer specializing in Generative AI, LLMs, and RAG systems.
+________________________________________
+🚀 What I Do
+•	Build production-grade LLM applications
+•	Design RAG pipelines for enterprise use cases
+•	Optimize prompts and reduce hallucinations
+•	Develop scalable AI + data systems
+________________________________________
+🔥 Featured Projects
+•	Enterprise RAG System (Coming Soon)
+•	LLM Observability Dashboard (Coming Soon)
+•	ML Pipeline (Coming Soon)
+________________________________________
+🛠 Tech Stack
+Python | Azure | OpenAI | Snowflake | ADF | FastAPI
+________________________________________
+📫 Connect
+•	LinkedIn: linkedin.com/in/sravanthi-g-023899210/
+•	Email: gsravanthi.ai@gmail.com
